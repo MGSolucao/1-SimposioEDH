@@ -1,0 +1,11 @@
+{
+  "name": "simposio-edh",
+  "version": "1.0.0",
+  "description": "Landing page do 1º Simpósio do EDH",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  }
+}
